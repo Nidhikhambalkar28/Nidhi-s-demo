@@ -1,4 +1,4 @@
 # Nidhi-s-demo
-This is my 1st repository on git.
+This is my 1st repository on github .
 <br>
 Author: Nidhi khambalkar
